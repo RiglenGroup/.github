@@ -1,4 +1,4 @@
-[![Riglen Group](https://riglen.com/assets/brand/logos/2025/logo-banner.320x132.png)](https://riglen.com/)
+[![Riglen Group](https://riglen.com/assets/brand/logos/2025/png/riglen-banner-rgb.png)](https://riglen.com/)
 
 # 🎉 Welcome to the Riglen Group GitHub Organization
 
