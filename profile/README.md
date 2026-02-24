@@ -1,3 +1,5 @@
+[![Riglen Group](https://riglen.com/assets/brand/logos/2025/logo-banner.320x132.png)](https://riglen.com/)
+
 # 🎉 Welcome to the Riglen Group GitHub Organization
 
 👋 **Hi there, and welcome!**
@@ -52,7 +54,7 @@ Most of our code is shared under **MIT or Apache 2.0 licenses**. You’re welcom
 Want to collaborate, license something privately, or request consulting support?
 
 📬 Contact us via:
-- [riglen.com/contact](https://riglen.com/contact)
+- [riglen.com](https://riglen.com)
 - Email: hello@riglen.com
 
 ---
